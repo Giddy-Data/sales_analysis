@@ -1,4 +1,4 @@
-# sales_analysis
+# Sales_Analysis
 Excel-based data analysis of supermarket sales with KPIs, dashboards, and 5% tax evaluation.
 
 ## Tools Used
