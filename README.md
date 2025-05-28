@@ -12,14 +12,14 @@ Excel-based data analysis of supermarket sales with KPIs, dashboards, and 5% tax
 - Tax 5%, Total, Date, Time
 - Payment, Cogs, Gross Margin %, Rating
 
-## 📌 Key Questions Answered
-- 📈 Which branches and product lines perform best?
-- 💰 How much tax revenue does each segment contribute?
-- 👥 What is the behavior of Members vs Normal customers?
+## Key Questions Answered
+- Which branches and product lines perform best?
+- How much tax revenue does each segment contribute?
+- What is the behavior of Members vs Normal customers?
 
 
 
-## 📊 Dashboard Features
+## Dashboard Features
 - KPI Cards for Revenue, Avg.gross income, Total.Tax, Total.quanity
 - Charts:
   - Column Chart: Tax by Product Line
